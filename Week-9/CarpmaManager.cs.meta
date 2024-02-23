@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5493f1a0185fd5b4ab2af896bdce2dac
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Prefab2: {fileID: 4054663655793163034, guid: 839ba1f3168aa31449f49963ddd1b813, type: 3}
+  - Prefab4: {fileID: 7670596677951079329, guid: 892bfcf66d1d60d4e9eb410ee90efa2a, type: 3}
+  - Prefab8: {fileID: 5254844871750194509, guid: 891f35b163dfce8489d9595732daa7f0, type: 3}
+  - Prefab16: {fileID: 4659843000705811616, guid: 83fc65a42434eb0418fef3b0c5314ec1, type: 3}
+  - Prefab32: {fileID: 8090468760522487323, guid: 66d61dcc0c027bf44b078cf35aa08873, type: 3}
+  - Prefab64: {fileID: 961423329701583792, guid: 7e092c16908b37f49a6820a12d4a63ad, type: 3}
+  - Prefab128: {fileID: 1605609274917675808, guid: b7cbd22adbf189843ada3d69c5f4ed94, type: 3}
+  - Prefab256: {fileID: 3115167719792866964, guid: cbdc5a049edbd5441b3935f7d3b2d5af, type: 3}
+  - Prefab512: {fileID: 5301636613204776630, guid: 620c6b514a70dd049930ba95b9d562ed, type: 3}
+  - Prefab1024: {fileID: 2130161412071125685, guid: 912a728ad324a7849985e93f8da47275, type: 3}
+  - BirlestirClip: {fileID: 8300000, guid: d092bb7dc2f296041991c72295cc4c0b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
